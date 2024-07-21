@@ -1,0 +1,16 @@
+{
+  "name": "12_mybank",
+  "version": "1.0.0",
+  "main": "bank.js",
+  "type": "module",
+  "bin": "bank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "12_mybank": "^1.0.0"
+  }
+}

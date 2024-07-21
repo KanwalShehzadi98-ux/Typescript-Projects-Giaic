@@ -18,3 +18,5 @@ npx 08_quizgame_kanwal
 
 npx 09_countdowntimer_kanwal
 
+npx 12_mybank
+
